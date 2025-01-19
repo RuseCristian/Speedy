@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652927958608",
+    "project_id": "learnnavbotsheet-284081ee",
+    "storage_bucket": "learnnavbotsheet-284081ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652927958608:android:0ff8a8dc58fd6d08575b55",
+        "android_client_info": {
+          "package_name": "com.example.speedy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652927958608-22ftj63r7uvsql71oukab9eaf1im45jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speedy",
+            "certificate_hash": "db7c6d618f0f715603f504595231e1fe2c4f1044"
+          }
+        },
+        {
+          "client_id": "652927958608-mtn2jsplke8oh45iq0v1ms0ro45cq0sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmSKsPUdENVgKN-D5JOZGskryTLJpo4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652927958608-mtn2jsplke8oh45iq0v1ms0ro45cq0sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
