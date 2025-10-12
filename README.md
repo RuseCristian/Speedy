@@ -10,11 +10,11 @@
 
 Ever wondered how fast your car _actually_ accelerates from 0-60? Speedy calculates real-world acceleration times using precise physics formulas and detailed vehicle parameters – because guessing is for weather forecasts, not horsepower.
 
-**🏆 2nd Place Winner** - Scientific Communications Session 2025, Polytechnic University of Bucharest
+**🏆 2nd Place Winner** - Scientific Communications Session 2025, Polytechnic University of Bucharest, Faculty of Engineering in Foreing Languages
 
 ## What Does Speedy Do?
 
-Speedy is a comprehensive vehicle acceleration simulator that transforms your car's technical specifications into accurate performance predictions. Developed as my **Bachelor's Thesis project** in Automotive Engineering, this app bridges the gap between theoretical automotive physics and practical performance analysis.
+Speedy is a comprehensive vehicle acceleration simulator that transforms your car's technical specifications into accurate performance predictions. Developed as my **Bachelor's Thesis project**, this app bridges the gap between theoretical automotive physics, practical performance analysis and software development.
 
 The application guides you through inputting detailed vehicle parameters across five specialized screens (Car, Drivetrain, Tires, Aerodynamics, Engine), then uses advanced physics calculations to simulate real-world acceleration performance. Whether you're an automotive engineer, racing enthusiast, or curious car owner, Speedy provides professional-grade acceleration analysis with the convenience of a mobile app.
 
