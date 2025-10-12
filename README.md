@@ -207,11 +207,8 @@ Want to make Speedy even better? Contributions are welcome!
 ### Ideas for contributions:
 
 - [ ] Quarter-mile and half-mile time calculations
-- [ ] Torque and power curve visualization
-- [ ] Pre-built vehicle database with popular cars
 - [ ] Export results to PDF/CSV
 - [ ] Comparison mode for multiple vehicles
-- [ ] Lap time simulation for different tracks
 - [ ] Dyno chart import functionality
 - [ ] Unit testing for physics calculations
 
