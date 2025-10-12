@@ -218,7 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **[Iulia Cristina Stanica](https://ro.linkedin.com/in/iulia-cristina-stanica)** - My thesis advisor for guidance on the physics calculations and automotive engineering principles
+- **[Iulia Cristina Stanica](https://ro.linkedin.com/in/iulia-cristina-stanica)** - My thesis advisor for guidance
 - The Android development community for Jetpack Compose resources and best practices
 - Fellow automotive engineering students and car enthusiasts who tested the app and provided valuable feedback
 
