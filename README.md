@@ -171,8 +171,6 @@ This multi-domain approach ensures that every physical factor affecting vehicle 
 
 ## 🎓 Academic Background - Bachelor's Thesis Project
 
-This application represents the culmination of my **Bachelor's Thesis in Automotive Engineering**, awarded **2nd Place** at the Scientific Communications Session 2025 at Polytechnic University of Bucharest. The project demonstrates the intersection of theoretical automotive physics and practical mobile application development.
-
 ### Thesis Objectives
 
 - **Research Goal**: Develop a comprehensive digital tool for accurate vehicle acceleration prediction
@@ -187,13 +185,13 @@ The thesis employed a multi-disciplinary approach combining:
 - **Mechanical Engineering**: Force analysis, weight transfer dynamics, and powertrain mechanics
 - **Fluid Dynamics**: Aerodynamic drag and downforce modeling with Reynolds number considerations
 - **Software Engineering**: Clean architecture principles with MVVM pattern and reactive programming
-- **Human-Computer Interaction**: Intuitive multi-screen input flow for complex technical data
+- **Human-Computer Interaction**: Intuitive multi-screen input flow for complex technical data alongside an emphasis for user experience, as each vehicle paramter is explained and also has suggested values, so even non automotivy savy people can easily understand what's asked of them
 
 ### Academic Validation
 
 - **Data Verification**: Algorithm validated against published automotive performance data
 - **Real-world Testing**: Compared app predictions with actual vehicle acceleration measurements
-- **Peer Review**: Thesis reviewed by automotive engineering faculty and industry professionals
+- **Peer Review**: Thesis reviewed by faculty
 - **Academic Recognition**: Recognized for innovative approach to automotive simulation technology
 
 ## 🤝 Contributing
