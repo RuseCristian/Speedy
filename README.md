@@ -18,6 +18,11 @@ Speedy is a comprehensive vehicle acceleration simulator that transforms your ca
 
 The application guides you through inputting detailed vehicle parameters across five specialized screens (Car, Drivetrain, Tires, Aerodynamics, Engine), then uses advanced physics calculations to simulate real-world acceleration performance. Whether you're an automotive engineer, racing enthusiast, or curious car owner, Speedy provides professional-grade acceleration analysis with the convenience of a mobile app.
 
+## Demo
+
+https://github.com/user-attachments/assets/00773466-b3de-44d9-a0bb-a6b5b301132e
+
+
 ## 📱 Screenshots
 
 <div align="center">
